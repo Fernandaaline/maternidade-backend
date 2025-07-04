@@ -1,3 +1,14 @@
+- **Nº do Squad: 12**
+
+- **Integrantes:**
+
+1. Elzilane Cardoso Barreto
+2. Hirislayne Batista Ramos dos Santos
+3. Isabella Castro Silva de Aguiar
+4. Andiara Passos de Sousa Rios
+5. Fernanda Aline Ferreira Alves de Souza
+   -----
+   
 ## Tecnologias Utilizadas no Backend (`aguiarisabela/maternidade-backend`)
 
 ### Principais Tecnologias
